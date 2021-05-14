@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cfebrian
+- 👀 I’m interested in interfacing software with hardware to design, analyze, and test systems
+- 🌱 I’m currently learning how ML can be used to impact engineering design / analysis
+- 💞️ I’m looking to collaborate on ML / AI for analysis
+- 📫 I'm a fan of anonymity.  If you suspect you know me, you can find me easily.
